@@ -1,2 +1,2 @@
 # menu-online
-Plataforma de pedidos de comida que conecta restaurantes e clientes em um ambiente virtual único. Com uma arquitetura moderna baseada em uma API RESTful desenvolvida com Spring Boot e um banco de dados NoSQL MongoDB
+Food ordering platform that connects restaurants and customers in a unique virtual environment. With a modern architecture based on a RESTful API developed with Spring Boot and a NoSQL MongoDB database.
